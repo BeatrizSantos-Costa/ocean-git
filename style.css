@@ -1,4 +1,4 @@
-.logo{
+.margem{
 	position: relative;
 	width: 940px;
 	margin: 0 auto;
@@ -40,6 +40,7 @@ nav a:hover {
 	margin: 20px 0;
 	font-weight: bold;
 	font-size: 20px ;
+	font-family: arial;
 }
 
 .subtitulo {
@@ -61,9 +62,9 @@ nav a:hover {
 }
 
 .conteudo {
-
-	text-align: center;
+	text-align: left;
 	margin: 10px 0;
+	padding: 10px;
 	font-size: 15px;
 	font-family: arial;
 }
@@ -82,3 +83,12 @@ nav a:hover {
     margin-left: auto;
     margin-right: auto;
 }
+
+footer {
+	text-align: center;
+}
+
+.rodape{
+	align-content: center;
+}
+
